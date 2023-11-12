@@ -83,6 +83,7 @@
 </script>
 
 <template>
+  {{ console.log('result', result?.value) }}
   <div :class="weatherBackground(result?.value?.weather[0].description)" class="text-black">
     <div class="frosted-background flex justify-center items-center h-screen w-full">
       <div class="card glass py-10 px-8 w-3/4 md:w-1/2">
