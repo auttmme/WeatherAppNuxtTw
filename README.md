@@ -1,6 +1,6 @@
 ## Stack Used
 - Nuxt 3 + Typescript
-- TailwindCSS + DaisyUI
+- TailwindCSS + DaisyUI + Icon (Icon module for Nuxt)
 - OpenWeatherMap API
 
 ## Setup
