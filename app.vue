@@ -104,7 +104,7 @@
               <div class="flex flex-col items-center">
                 <div class="flex justify between">
                   <Icon name="ph:wind" size="24px" />
-                  <p class="text-center ml-2">{{ result?.value?.wind.speed }}km/h</p>
+                  <p class="text-center ml-2">{{ result?.value?.wind.speed }} km/h</p>
                 </div>
                 <p>Wind</p>
               </div>
