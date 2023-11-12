@@ -3,8 +3,8 @@
     import sunny from "~/src/image/sunny.svg";
     import cloud from "~/src/image/cloud.png"
     import rain from "~/src/image/rain.png"
-    import thunder from "~/src/image/thunder.png"
     import haze from "~/src/image/haze.png"
+    import thunder from "~/src/image/thunder.png"
     
     const result = ref()
     
